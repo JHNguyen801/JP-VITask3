@@ -1,0 +1,23 @@
+From 59c3b1dd09ac4aae6c5e5c86bfc873c98dd8b739 Mon Sep 17 00:00:00 2001
+From: jbf-insidesherpa <54832297+jbf-insidesherpa@users.noreply.github.com>
+Date: Mon, 4 Nov 2019 23:00:20 +0800
+Subject: [PATCH] Update README
+
+- update patch link
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 802de10..9dab819 100755
+--- a/README.md
++++ b/README.md
+@@ -60,4 +60,4 @@ Open http://localhost:3000 to view the app in the browser. The page will reload
+ <p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m3_v1.pdf">follow this guide</a>.</p>
+ 
+ <h2>How to submit your work</h2>
+-<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v2.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
++<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/EbtbrgmwKbgqcXyGt">JPM Module 3 Page</a>.</p>
+-- 
+2.24.0.windows.2
+
